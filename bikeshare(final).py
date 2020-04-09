@@ -170,3 +170,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+#if you found any misstakes or have better lines of code - please provide the solutions and tips via mail to faas.fabian@t-online.de

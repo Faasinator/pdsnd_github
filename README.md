@@ -12,3 +12,6 @@ Python --> Bikeshare Analysis Tool
 
 ### Credits
 n/a
+
+### Name 
+Fabian Faas

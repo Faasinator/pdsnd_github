@@ -1,3 +1,5 @@
+#this code is provided by Fabian Faas for the great course of Udacity
+
 import time
 import pandas as pd
 import numpy as np
@@ -5,6 +7,10 @@ import numpy as np
 CITY_DATA = { 'chicago': 'chicago.csv',
               'new york city': 'new_york_city.csv',
               'washington': 'washington.csv' }
+
+DAY_DATA = { '1': 'Monday',
+              '2': 'Tuesday',
+              '3': 'Wednesday', '4': 'Thursday', '5': 'Friday', '6': 'Saturday', '7': 'Sunday' }
 
 def get_filters():
     """
